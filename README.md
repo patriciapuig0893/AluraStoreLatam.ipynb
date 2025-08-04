@@ -4,7 +4,7 @@
 En este análisis de datos, ayudarás a Juan a decidir que tienda de Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello se analizarán datos de ventas, rendimiento y reseñas de las cuatro tiendas.
 El objetivo es identificar cual es la tienda menos eficiente y presentar una recomendación final basada en los datos obtenidos.
 
-###PASOS A SEGUIR
+### PASOS A SEGUIR
 *   Cargar y manipular datos CSV con la biblioteca Pandas.
 *   Crear visualizaciones de datos con la biblioteca Matplotlib.
 *   Analizas métricas como ingresos, reservas y rendimiento de ventas.
